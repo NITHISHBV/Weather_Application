@@ -34,7 +34,7 @@ JavaScript: Handles the functionality of fetching data from the weather API, pro
 Weather API: The app pulls real-time weather data from an external API, ensuring accurate and up-to-date weather information.
 
 Demo Link:
-https://nithishbv.github.io/PRODIGY_WD_05/weather.html
+https://nithishbv.github.io/Weather_Application/weather.html
 
 Contact Information:
 For inquiries or more information, feel free to contact me at bvnithish2002@gmail.com.
